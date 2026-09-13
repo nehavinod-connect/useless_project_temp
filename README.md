@@ -62,9 +62,8 @@ npm run dev
 =======
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
->>>>>>> 29f08ed874c9dc261b11e88a9ca239ba9d7f0e78
+![Uploading ChatGPT Image Sep 13, 2026, 05_02_41 PM.png…]()
+
 
 ### Project Demo
 # Video
