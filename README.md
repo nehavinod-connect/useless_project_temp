@@ -54,9 +54,6 @@ npm run dev
 ![Screenshot 3](https://drive.google.com/uc?export=view&id=1z13NABNHViKTBDNylyR7kOQKfXdD2SMt)
 *Incoming Call: Overthink whether you should answer a call from your mom.*
 
-## Diagrams
-
-![Overthink-o-Meter Workflow](./path-to-your-diagram.png)
 
 *Workflow showing how users interact with the React frontend, interactive features, Groq AI services, local fallback systems, and the final humorous output.*
 =======
