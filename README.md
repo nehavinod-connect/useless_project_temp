@@ -42,6 +42,7 @@ npm run dev
 ```
 
 ### Project Documentation
+<<<<<<< HEAD
 # Screenshots
 
 ![Screenshot 1](https://drive.google.com/uc?export=view&id=1MD-67U2tRwCmT30iVs15v2DiXhfbtMkK)
@@ -58,6 +59,17 @@ npm run dev
 ![Overthink-o-Meter Workflow](./path-to-your-diagram.png)
 
 *Workflow showing how users interact with the React frontend, interactive features, Groq AI services, local fallback systems, and the final humorous output.*
+=======
+# Screenshots (Add at least 3)
+![Screenshot1]
+
+![Screenshot2]
+
+![Screenshot3]
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+*Add caption explaining your workflow*
+>>>>>>> 29f08ed874c9dc261b11e88a9ca239ba9d7f0e78
 
 ### Project Demo
 # Video
