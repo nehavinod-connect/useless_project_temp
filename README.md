@@ -2,51 +2,46 @@
 
 
 
-# [Project Name] 🎯
+# Overthink-O-Meter 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Algora
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Neha Vinod - CUSAT
+- Member 2: Sandra Jose - CUSAT
 
 ### Project Description
-[2-3 lines about what your project does]
-
+Overthink-o-Meter is a playful, satirical web app that turns everyday situations into hilarious overthinking scenarios. 🧠🌀
+It features interactive games, AI-powered delusion analysis, flag quizzes, conspiracy building, and chaotic mini-games designed to make overthinking ridiculously fun. 😭💀
+        
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People waste way too much brainpower overthinking completely normal things — a “k,” a late reply, a story view, or a suspiciously placed full stop. Basically, problems that don't exist needlessly need solving. 😭
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Overthink-o-Meter turns these imaginary problems into an interactive playground of AI-powered chaos, quizzes, games, conspiracies, and ridiculous scenarios — helping users overthink their overthinking for absolutely no reason. 💀🧠
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Languages: JavaScript, HTML, CSS
+- Frameworks: React, Vite
+- Libraries: Groq SDK, Lucide React, Tailwind CSS
+- Tools: Antigravity IDE, Git/GitHub, Figma
 
 ### Implementation
-For Software:
 # Installation
-[commands]
+```bash
+npm install
+```
 
 # Run
-[commands]
+```bash
+npm run dev
+```
 
 ### Project Documentation
-For Software:
-
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
@@ -61,37 +56,17 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[Demo Video](https://drive.google.com/file/d/1WADVHti27jNxHeDTT7aP9E3jL7ubwze6/view?usp=sharing)
+*A full walkthrough of the Overthink-o-Meter features.*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Neha Vinod: UI/UX design, frontend development, feature implementation, AI/Groq integration, and overall project design.
+- Sandra Jose: Feature development, frontend implementation, testing/debugging, content ideas, and project presentation.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
