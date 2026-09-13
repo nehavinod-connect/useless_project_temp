@@ -42,19 +42,22 @@ npm run dev
 ```
 
 ### Project Documentation
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 1](https://drive.google.com/uc?export=view&id=1MD-67U2tRwCmT30iVs15v2DiXhfbtMkK)
+*Flag Quiz: Find out if your thought is a red flag or a green flag.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2](https://drive.google.com/uc?export=view&id=1nX6bR_KzO1Q5c0-9QuVvxGFq3oGCnurP)
+*Anxiety Wheel: Let fate decide what you should panic about today.*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Screenshot 3](https://drive.google.com/uc?export=view&id=1z13NABNHViKTBDNylyR7kOQKfXdD2SMt)
+*Incoming Call: Overthink whether you should answer a call from your mom.*
+
+## Diagrams
+
+![Overthink-o-Meter Workflow](./path-to-your-diagram.png)
+
+*Workflow showing how users interact with the React frontend, interactive features, Groq AI services, local fallback systems, and the final humorous output.*
 
 ### Project Demo
 # Video
