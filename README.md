@@ -43,16 +43,11 @@ npm run dev
 
 ### Project Documentation
 # Screenshots (Add at least 3)
-![Screenshot1](https://drive.google.com/file/d/1MD-67U2tRwCmT30iVs15v2DiXhfbtMkK/view?usp=sharing)
-*Flag Quiz: Find out if your thought is a red flag or a green flag.*
+![Screenshot1]
 
+![Screenshot2]
 
-![Screenshot2](https://drive.google.com/file/d/1nX6bR_KzO1Q5c0-9QuVvxGFq3oGCnurP/view?usp=sharing)
-*Anxiety Wheel: Let fate decide what you should panic about today.*
-
-![Screenshot3](https://drive.google.com/file/d/1z13NABNHViKTBDNylyR7kOQKfXdD2SMt/view?usp=sharing)
-*Incoming Call: Overthink whether you should answer a call from your mom.*
-
+![Screenshot3]
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
