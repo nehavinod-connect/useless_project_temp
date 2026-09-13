@@ -60,12 +60,7 @@ npm run dev
 
 *Workflow showing how users interact with the React frontend, interactive features, Groq AI services, local fallback systems, and the final humorous output.*
 =======
-# Screenshots (Add at least 3)
-![Screenshot1]
 
-![Screenshot2]
-
-![Screenshot3]
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
