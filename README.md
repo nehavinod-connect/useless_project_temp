@@ -62,7 +62,8 @@ npm run dev
 =======
 
 # Diagrams
-![Uploading ChatGPT Image Sep 13, 2026, 05_02_41 PM.png…]()
+<img width="1312" height="1199" alt="ChatGPT Image Sep 13, 2026, 05_02_41 PM" src="https://github.com/user-attachments/assets/babf5736-9826-416f-a7a5-6911b9c9be1e" />
+
 
 
 ### Project Demo
